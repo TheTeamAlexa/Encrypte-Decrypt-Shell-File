@@ -38,7 +38,7 @@ pkg install git
 
 npm install -g bash-obfuscate
 
-git clone https://github.com/TheTeamAlexa/Encrypte-Or-Decrypt-Your-Shell-File
+git clone https://github.com/TheTeamAlexa/Encrypte-Decrypt-Shell-File
 
 cd
 
